@@ -1,0 +1,14 @@
+body, html {
+    background-color: rgb(30, 30, 30);
+}
+
+.hero {
+    background-image: url(pexels-vishnu-r-nair-1105666.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
